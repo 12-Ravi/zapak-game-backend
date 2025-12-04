@@ -1,0 +1,43 @@
+# .gitignore
+# Compiled class files
+*.class
+target/
+build/
+out/
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.DS_Store
+
+# Spring Boot
+application-local.properties
+application-dev.properties
+
+# Database
+*.db
+
+# Docker
+*.env
