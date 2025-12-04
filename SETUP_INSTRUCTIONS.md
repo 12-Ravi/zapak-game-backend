@@ -550,14 +550,10 @@ docker-compose up --build
 
 ---
 
-## 👨‍💻 Author
-Built for **Zapak (Reliance Games)** Assignment
+
 
 ## 📄 License
 This project is for assignment evaluation purposes.
 
 ---
 
-## 🎉 You're All Set!
-
-Start the application and test all APIs. Everything is containerized and ready to use! 🚀
